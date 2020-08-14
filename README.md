@@ -21,7 +21,7 @@ For building and running the application you need:
 ### Build & Run 
 
 ```
-  docker-compose -f "YOUR_LOCATION" up -d 
+  docker-compose -f "YOUR_LOCATION\docker-compose.yml" up -d 
 ```
 
 ```
